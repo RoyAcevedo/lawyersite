@@ -1,5 +1,5 @@
 .attorneys-background {
-    background: url('https://d3e1m60ptf1oym.cloudfront.net/4b098f9a-8c5b-11e3-853c-110051f7951f/MG-3304-Chicago-Skyline-Night_xgaplus.jpg')
+    background: url('/src/images/background.jpg')
     top center/cover no-repeat;
     height: 100vh;
     width: 100%;
@@ -7,7 +7,7 @@
 }
 
 .phoenix {
-    background: url("https://i.pinimg.com/originals/f5/22/44/f52244fd0a397f7f8281392adffdbea8.jpg");
+    background: url("/src/images/PhoenixW.jpg");
     background-size:cover;
     position:relative;
     width: 300px;
@@ -17,6 +17,8 @@
     display:block;
     margin: 20px auto;
 }
+
+
 
 .phoenix-w {
     background-color:#accdf2;
@@ -29,15 +31,8 @@
     height: 500px;
 }
 
-/* .phoenix-w h1 {
-    position: relative;
-    color: blue;
-    margin:auto;
-    vertical-align:middle;
-} */
-
 .mia {
-    background: url("https://i.pinimg.com/originals/3b/14/9e/3b149e4f5269dddf07402025a2c2a270.jpg");
+    background: url("/src/images/MiaF.jpg");
     background-size:cover;
     position:relative;
     width: 300px;
