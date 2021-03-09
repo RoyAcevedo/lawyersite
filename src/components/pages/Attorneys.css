@@ -1,0 +1,73 @@
+.attorneys-background {
+    background: url('https://d3e1m60ptf1oym.cloudfront.net/4b098f9a-8c5b-11e3-853c-110051f7951f/MG-3304-Chicago-Skyline-Night_xgaplus.jpg')
+    top center/cover no-repeat;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+}
+
+.phoenix {
+    background: url("https://i.pinimg.com/originals/f5/22/44/f52244fd0a397f7f8281392adffdbea8.jpg");
+    background-size:cover;
+    position:relative;
+    width: 300px;
+    height: 375px;
+    padding:15px;
+    border: 5px solid #accdf2;
+    display:block;
+    margin: 20px auto;
+}
+
+.phoenix-w {
+    background-color:#accdf2;
+    background-size: cover;
+    position: relative;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding:10px;
+    height: 500px;
+}
+
+/* .phoenix-w h1 {
+    position: relative;
+    color: blue;
+    margin:auto;
+    vertical-align:middle;
+} */
+
+.mia {
+    background: url("https://i.pinimg.com/originals/3b/14/9e/3b149e4f5269dddf07402025a2c2a270.jpg");
+    background-size:cover;
+    position:relative;
+    width: 300px;
+    height: 375px;
+    padding:15px;
+    border: 5px solid #accdf2;
+    margin: 20px auto;
+}
+
+.mia-f {
+    background-color:#accdf2;
+    background-size: cover;
+    position: relative;
+    float:left;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding:10px;
+    height: 500px;
+}
+
+h1 {
+    position: relative;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}
+
+p {
+    position: relative;
+    color: green;
+    text-align: center;
+}

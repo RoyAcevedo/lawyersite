@@ -1,0 +1,7 @@
+.hero-container {
+    background: url('https://d3e1m60ptf1oym.cloudfront.net/4b098f9a-8c5b-11e3-853c-110051f7951f/MG-3304-Chicago-Skyline-Night_xgaplus.jpg')
+    top center/cover no-repeat;
+    height: 100vh;
+    width: 100%;
+    display:flex;
+}
