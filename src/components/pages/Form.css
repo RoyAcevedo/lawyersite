@@ -1,0 +1,21 @@
+.form-inputs p {
+    color: red;
+}
+
+.form-content-right {
+    position: relative;
+    margin: auto;
+    text-align: center;
+}
+
+.form-content-right h1 {
+    color: black;
+}
+
+.form-input-btn {
+    display:flex;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
